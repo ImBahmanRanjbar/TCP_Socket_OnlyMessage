@@ -1,0 +1,9 @@
+C:\Users\Home\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Home\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Home\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Home\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Home\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Home\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Home\Desktop\Server\Server\obj\Debug\Server.pdb

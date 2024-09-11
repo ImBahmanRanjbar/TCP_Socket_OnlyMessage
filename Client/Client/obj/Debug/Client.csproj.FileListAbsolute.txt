@@ -1,0 +1,8 @@
+G:\projects\Socket\Client\Client\bin\Debug\Client.exe.config
+G:\projects\Socket\Client\Client\bin\Debug\Client.exe
+G:\projects\Socket\Client\Client\bin\Debug\Client.pdb
+G:\projects\Socket\Client\Client\obj\Debug\Client.Form1.resources
+G:\projects\Socket\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\projects\Socket\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+G:\projects\Socket\Client\Client\obj\Debug\Client.exe
+G:\projects\Socket\Client\Client\obj\Debug\Client.pdb
